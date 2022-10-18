@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.first {
+    background: #335656;
+    display: flex;
+    justify-content: center;
+    width: 490px;
+    height:200px;
+    margin: 10px;
+}
+.three {
+    width: 150px;
+    height: 200px;
+    background: rgb(40, 67, 68);
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.second {
+    background: #335656;
+    display: flex;
+    justify-content: center;
+    width: 490px;
+    height:350px;
+    margin: 10px;
+}
